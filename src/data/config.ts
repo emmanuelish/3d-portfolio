@@ -25,17 +25,14 @@ const config = {
   ],
   author: "Emmanuel Owouko",
   email: "emmanuelowouko@gmail.com",
-  site: "https://nareshkhatri.site",
+  site: "https://emmanuelowouko.vercel.app",
 
   get ogImg() {
     return this.site + "/assets/seo/og-image.png";
   },
   social: {
-    twitter: "https://x.com/nothotchaddi",
     linkedin: "https://www.linkedin.com/in/emmanuelowouko/",
-    instagram: "https://www.instagram.com/hotchaddi",
-    facebook: "https://www.facebook.com/HotChaddi/",
-    github: "https://github.com/Naresh-Khatri",
+    github: "https://github.com/emmanuelish",
   },
 };
 export { config };

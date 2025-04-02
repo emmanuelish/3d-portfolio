@@ -61,7 +61,7 @@ const CONTACT_LINKS = [
   },
   {
     name: "GitHub",
-    href: "https://github.com/Naresh-Khatri",
+    href: "https://github.com/emmanuelish",
     content: "/naresh-khatri",
     icon: <FaGithub height={"50px"} />,
   },

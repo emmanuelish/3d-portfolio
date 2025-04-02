@@ -11,17 +11,17 @@ import "@splidejs/react-splide/css";
 const PROJECTS = [
   {
     id: 1,
-    name: "Coding Ducks",
+    name: "L'Expert",
     description: `Dive into CodingDucks, a fusion of CodePen's creative playground with LeetCode's problem-solving realm.
 Whether you're a newbie or a seasoned coder, join the community to paddle through coding adventures and let your
 creativity soar.`,
     link: "https://www.codingducks.live",
     images: [
-      "/assets/projects-screenshots/codingducks/1.png",
-      "/assets/projects-screenshots/codingducks/2.png",
-      "/assets/projects-screenshots/codingducks/3.png",
-      "/assets/projects-screenshots/codingducks/4.png",
-      "/assets/projects-screenshots/codingducks/5.png",
+      "/assets/projects-screenshots/lexpert/1.png",
+      "/assets/projects-screenshots/lexpert/2.png",
+      "/assets/projects-screenshots/lexpert/3.png",
+      "/assets/projects-screenshots/lexpert/4.png",
+      "/assets/projects-screenshots/lexpert/5.png",
     ],
   },
   {
@@ -39,25 +39,17 @@ Join the community for intriguing conversations and mysterious encounters.`,
   },
   {
     id: 3,
-    name: "Coupon Luxury",
+    name: "Langmeet",
     description: `Welcome to CouponLuxury, your destination for exclusive discounts and savings. Explore the platform to find the
 best deals on luxury brands and products. Join our savvy community of shoppers and unlock access to premium coupons.`,
-    link: "https://www.couponluxury.com/",
+    link: "https://langmeet.io",
     images: [
-      "/assets/projects-screenshots/couponluxury/1.png",
-      "/assets/projects-screenshots/couponluxury/2.png",
-      "/assets/projects-screenshots/couponluxury/3.png",
-      "/assets/projects-screenshots/couponluxury/4.png",
-      "/assets/projects-screenshots/couponluxury/5.png",
+      "/assets/projects-screenshots/langmeet/1.png",
+      "/assets/projects-screenshots/langmeet/2.png",
+      "/assets/projects-screenshots/langmeet/3.png",
+      "/assets/projects-screenshots/langmeet/4.png",
+      "/assets/projects-screenshots/langmeet/5.png",
     ],
-  },
-  {
-    id: 4,
-    name: "JNTUA Results Analyser",
-    description: `the go-to app for JNTUA students, empowering them to analyze, compare, and view classwise results effortlessly.
-     Dive into your academic journey with ease, track your progress, and gain valuable insights.`,
-    link: "/projects/4",
-    images: ["/assets/projects-screenshots/jra/1.png"],
   },
 ];
 function Page() {
